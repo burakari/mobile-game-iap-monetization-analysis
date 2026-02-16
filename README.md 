@@ -1,0 +1,16 @@
+# Mobile Game IAP Monetization Analysis
+
+This project analyzes transaction-level in-app purchase (IAP) data from a mobile game.
+
+The notebook demonstrates:
+
+- Data cleaning and preparation
+- Core monetization KPI calculation
+- Platform comparison (iOS vs Android)
+- Revenue distribution analysis
+
+Tools used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
